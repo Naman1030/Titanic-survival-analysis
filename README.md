@@ -76,23 +76,3 @@ This project was created as part of my journey into data analytics, focusing on:
 **Dataset Source:** [Kaggle Titanic Competition](https://www.kaggle.com/c/titanic)
 ```
 
-5. **Scroll down and click "Commit changes"**
-
----
-
-## **Verify Everything Looks Good:**
-
-After uploading, your repo should have:
-- ✅ `README.md` (with the nice description)
-- ✅ `titanic_analysis.ipynb` (your notebook)
-- ✅ `train.csv` (the data)
-
-**Click on your notebook file** - GitHub will render it beautifully with all your charts visible!
-
----
-
-## **Once That's Done:**
-
-1. **Copy your repository URL:**
-```
-   https://github.com/Naman1030/Titanic-survival-analysis
